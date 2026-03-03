@@ -3,4 +3,5 @@ numpy
 plotly
 scipy
 statsmodels
-streamlit
+streamlit>=1.45.0
+altair>=5.0,<6
